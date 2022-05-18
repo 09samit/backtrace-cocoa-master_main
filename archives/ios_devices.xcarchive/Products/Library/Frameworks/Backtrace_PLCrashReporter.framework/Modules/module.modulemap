@@ -1,0 +1,6 @@
+framework module Backtrace_PLCrashReporter {
+  umbrella header "Backtrace-PLCrashReporter-iOS10.0-umbrella.h"
+
+  export *
+  module * { export * }
+}

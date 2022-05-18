@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "backtrace-cocoa-master",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/09samit/backtrace-cocoa-master",
+      "state" : {
+        "revision" : "3110960bd995c607e727fde77fc12e77c63420a2",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "plcrashreporter-master",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/09samit/plcrashreporter-master.git",
+      "state" : {
+        "revision" : "5d311f56b8b7fea00a57d706675baf7fd29e23f2",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
